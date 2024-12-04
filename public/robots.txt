@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+# Host
+Host: https://www.edtech-assistant.sbs
+
+# Sitemaps
+Sitemap: https://www.edtech-assistant.sbs/sitemap.xml
