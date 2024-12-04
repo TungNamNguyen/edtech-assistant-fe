@@ -11,7 +11,7 @@ This repository serves as the front-end for the project, offering an overview of
 
 You can access the web site from here: [Edtech Website](https://www.edtech-assistant.sbs/).
 
-You can find the Back-end repository here: [Edtech Back-end Repository](https://github.com/anhminhnguyen3110/edtech-be).
+You can find the Back-end repository here: [Edtech Back-end Repository](https://github.com/TungNamNguyen/edtech-asssistant-be).
 
 # Table of Contents
 
