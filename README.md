@@ -46,7 +46,7 @@ npm run dev
 
 # Tech Stack
 
-## Frontend ([Repository](https://github.com/anhminhnguyen3110/edtech-fe))
+## Frontend
 
 <div style="display: inline-block; font-size: 22px;">
     <img src="images/react.png" alt="React" width="25" height="25"> ReactJS |
